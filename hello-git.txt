@@ -1,4 +1,4 @@
 这是我的第二次 Git 文件管理练习。
-我正在学习使用 Git Bash 和 GitHub。
+我正在 conflict-practice 分支修改这一行。
 我已经学会了 Git 的基本提交和推送操作。
 这是 practice 分支上的专属内容。
