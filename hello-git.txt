@@ -5,3 +5,4 @@
 这是 practice 分支上的专属内容。
 我正在 feature-hello 分支上开发新功能。
 这是我第一次练习创建 Pull Request。
+这是 git stash 的练习内容
